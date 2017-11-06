@@ -7,6 +7,7 @@
 	<script src="js/validation.js" type="text/javascript"></script>
 	<link rel="stylesheet" href="css/style.css" type="text/css" />
 </head>
+	
 <body>
 
 <form name="myform" onsubmit="return validateForm()">
